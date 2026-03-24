@@ -40,3 +40,9 @@
 2026-03-24 23:01:34.236 [CHECKMARK] - composeAgent - apps-api-ts - Dockerfile generated
 2026-03-24 23:01:34.329 [CHECKMARK] - index - apps-api-ts - Project indexed
 2026-03-24 23:01:34.364 [CHECKMARK] - index - apps-api-ts - Imports analyzed
+2026-03-24 23:01:34.483 [CHECKMARK] - index - apps-api-ts - Build configuration analyzed
+2026-03-24 23:01:34.494 [CHECKMARK] - index - apps-api-ts - Security analyzed
+2026-03-24 23:01:34.501 [CHECKMARK] - index - apps-api-ts - External services analyzed
+2026-03-24 23:01:34.523 [CHECKMARK] - composeAgent - apps-api-ts - Dockerfile generated
+2026-03-24 23:01:34.545 [CHECKMARK] - composeAgent - apps-api-ts - Context gathered
+2026-03-24 23:01:34.575 [CHECKMARK] - composeAgent - apps-api-ts - docker-compose.yaml generated
